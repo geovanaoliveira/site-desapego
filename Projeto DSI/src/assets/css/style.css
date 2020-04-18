@@ -1,0 +1,50 @@
+body{
+    background-color:#fff2e6;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;  
+    color: 	 #ff9999;
+    text-align: center; 
+    margin: auto;
+}
+
+p{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #4d0000; 
+    margin-left: 40px;
+}
+
+.card{
+    background-color: #fdfdfd;
+    border-radius: 25px;
+    width: 250px;
+    height: 450px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px solid #862d2d;
+    box-shadow: 10px 5px 5px #854a4a;
+}
+.card-img-top{
+    padding-top: 10px;
+    margin: auto;
+    width: 150px;
+    height: 180px;
+    border-radius: 20px;
+} 
+.card-body{
+    font-size: 25px;
+    color:#000;
+}
+.card-title{
+   font-weight: bold;
+   font-size: 25px;
+   padding-top: 0px;
+   text-align: center;
+}
+.list-group{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 220px;
+    font-size: 15px;
+}
